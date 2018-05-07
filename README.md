@@ -130,19 +130,15 @@ zone گفته می شود. ناحیه‌های هر اپلیکیشن در پنل
     <span style="color: #0000ff;">public </span><span style="color: #008000;">function </span><span style="color: #000000;">onError </span>(zoneId:String,error:String)<span style="color: #000080;">:<span style="color: #0000ff;">void</span></span>
     <span style="color: #333333;">{</span>
     <span style="color: #333333;">}</span>
-
     <span style="color: #0000ff;">public <span style="color: #008000;">function</span></span> <span style="color: #000000;">onAdAvailable </span><span style="color: #333333;">(zoneId:String,adId:String</span><span style="color: #333333;">):<span style="color: #0000ff;">void</span></span>
     <span style="color: #333333;">{</span>
     <span style="color: #333333;">}</span>
-
     <span style="color: #0000ff;">public </span><span style="color: #008000;">function</span> <span style="color: #000000;">onNoAdAvailable </span><span style="color: #333333;">(zoneId:String):<span style="color: #0000ff;">void</span></span>
     <span style="color: #333333;">{</span>
     <span style="color: #333333;">}</span>
-
     <span style="color: #0000ff;">public </span><span style="color: #333399;"><span style="color: #008000;">function</span> </span><span style="color: #000000;">onNoNetwork </span><span style="color: #333333;">(zoneId:String):<span style="color: #0000ff;">void</span></span>
     <span style="color: #333333;">{</span>
     <span style="color: #333333;">}</span>
-
     <span style="color: #0000ff;">public </span><span style="color: #008000;">function </span><span style="color: #000000;">onExpiring </span><span style="color: #333333;">(zoneId:String,adId:String</span><span style="color: #333333;">):<span style="color: #0000ff;">void</span></span>
     <span style="color: #333333;">{</span>
     <span style="color: #333333;">}</span>
